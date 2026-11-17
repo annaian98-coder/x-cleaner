@@ -1,0 +1,11 @@
+{
+  "name": {
+    "message": "Twitter Cleaner"
+  },
+  "description": {
+    "message": "Bulk-delete your X (Twitter) posts, replies, reposts and likes with filters. Uses your logged-in session, no API key needed."
+  },
+  "actionTitle": {
+    "message": "Open Twitter Cleaner"
+  }
+}

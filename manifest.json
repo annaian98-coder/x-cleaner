@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "트위터 청소기",
-  "version": "2.0.0",
-  "description": "X(트위터) 내 글, 답글, 재게시, 마음을 조건에 맞춰 정리합니다. 공식 API 없이 로그인한 웹 세션으로 동작합니다.",
+  "name": "__MSG_name__",
+  "version": "2.0.1",
+  "default_locale": "ko",
+  "description": "__MSG_description__",
   "permissions": [
     "storage",
     "unlimitedStorage"
@@ -16,7 +17,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "트위터 청소기 열기",
+    "default_title": "__MSG_actionTitle__",
     "default_icon": {
       "16": "icons/16.png",
       "32": "icons/32.png",
